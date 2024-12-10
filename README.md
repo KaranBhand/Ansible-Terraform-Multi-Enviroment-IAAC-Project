@@ -1,4 +1,4 @@
-# Ansible-Terraform-Multi-Environment-IAAC-Project
+![1733635476665](https://github.com/user-attachments/assets/2f2f8fb7-4a3b-44d0-ac77-82d1fc5320b9)# Ansible-Terraform-Multi-Environment-IAAC-Project
 # Fell free to clone nad changes according to you, also Please replace Keys from your side.
 🚀 Completed My Ansible-Terraform-Multi-Environment-IAAC-Project! 🚀
 
@@ -16,3 +16,12 @@ Delivered an automated workflow that can scale and adapt to various environments
 
 This project has strengthened my skills in Infrastructure as Code (IaC), AWS, and Automation, and I am excited to continue exploring new ways to optimize deployments and manage infrastructure.
 If you're interested in learning more or collaborating, feel free to connect!
+
+![1733635476665](https://github.com/user-attachments/assets/f889bcc7-267a-4563-a66f-dc9a49283f14)
+
+<img width="783" alt="Capture5" src="https://github.com/user-attachments/assets/4051fbb9-38ee-4d60-bf63-e7fd477e83e2">
+
+<img width="202" alt="Capture" src="https://github.com/user-attachments/assets/d17d0cc2-1949-475f-83c5-48baa7fea6ab">
+
+
+
