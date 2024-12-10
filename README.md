@@ -22,5 +22,12 @@ If you're interested in learning more or collaborating, feel free to connect!
 
 <img width="202" alt="Capture" src="https://github.com/user-attachments/assets/d17d0cc2-1949-475f-83c5-48baa7fea6ab">
 
+<img width="786" alt="Capture6" src="https://github.com/user-attachments/assets/6f2ecb4d-01e7-445c-a813-fbc25836306e">
 
+<img width="784" alt="Capture1" src="https://github.com/user-attachments/assets/f611e6e1-7b7e-4f26-90bc-8d0bbd1cea29">
 
+<img width="784" alt="Capture3" src="https://github.com/user-attachments/assets/f6c7e350-0894-4d02-8418-40d816dd2e7a">
+
+<img width="783" alt="Capture4" src="https://github.com/user-attachments/assets/b6a68b41-1d7f-4307-96d2-05790f2bb034">
+
+<img width="202" alt="Capture" src="https://github.com/user-attachments/assets/55ca1ee9-f651-48f3-a036-de730d821413">
