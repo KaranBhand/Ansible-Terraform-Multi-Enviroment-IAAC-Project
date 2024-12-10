@@ -1,6 +1,5 @@
-![1733635476665](https://github.com/user-attachments/assets/2f2f8fb7-4a3b-44d0-ac77-82d1fc5320b9)# Ansible-Terraform-Multi-Environment-IAAC-Project
-# Fell free to clone nad changes according to you, also Please replace Keys from your side.
 🚀 Completed My Ansible-Terraform-Multi-Environment-IAAC-Project! 🚀
+# Fell free to clone nad changes according to you, also Please replace Keys from your side.
 
 I am thrilled to share that I have successfully completed my Ansible-Terraform-Multi-Environment-IAAC-Project, where I focused on building scalable and automated infrastructure using Terraform and Ansible.
 
